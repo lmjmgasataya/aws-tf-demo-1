@@ -5,6 +5,7 @@ Create a terraform resource:
 * Create an Internet Gateway for this new VPC
 * Create IAM role and policy that has a put object to an s3 bucket.
 * Create an ec2 resource in a private subnet and attach the role created from earlier.
+* Create RDS instance.
 
 
 # AWS
